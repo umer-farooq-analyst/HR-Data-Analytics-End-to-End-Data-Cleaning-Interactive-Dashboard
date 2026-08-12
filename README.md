@@ -54,4 +54,4 @@ Final step mein, saari numeric findings ko ek visually appealing dashboard mein 
 
 ## 🛠️ Tools Used
 * **Data Cleaning & Analysis:** Microsoft Excel (Advanced Formulas, Power Query / Pivot Tables)
-* **Visualization:** Excel Dashboards / Power BI *(Aap jo bhi tool use kar rahe hain, use rakhein baki delete kar dein)*
+* **Visualization:** Excel Dashboards / Power BI 
